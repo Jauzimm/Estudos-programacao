@@ -4,31 +4,38 @@
 Os valores da ER são adaptados de práticas ágeis (XP e Scrum) e visam alinhar comportamentos da equipe ao contexto de aplicação. 
 
 1. **Comunicação**:
+   
    - Essencial para transmitir requisitos e compartilhar conhecimento.
    - Incentiva feedback, cria senso de equipe e cooperação eficaz.
    - Deve ser adequada ao contexto e aos envolvidos.
 
-2. **Feedback**:
+3. **Feedback**:
+   
    - Aprendizado constante para compreensão de necessidades.
    - Identificação precoce de problemas promove adaptação e refinamento.
    - É crítico para comunicação e simplicidade.
 
-3. **Simplicidade**:
+5. **Simplicidade**:
+   
    - Foco em resolver problemas atuais sem antecipar futuros.
    - Contextual e apoiada por comunicação eficaz.
 
-4. **Coragem**:
+7. **Coragem**:
+   
    - Essencial para encarar desafios, buscar respostas e tomar decisões.
    - Promove confiança, simplicidade e feedback.
 
-5. **Respeito**:
+9. **Respeito**:
+    
    - Reconhece o valor humano e as contribuições de todos.
 
-6. **Compromisso**:
+11. **Compromisso**:
+    
    - Baseado em acordos claros sobre tarefas e prazos.
    - Fundamental para sucesso da equipe, projeto e interação com clientes.
 
-7. **Confiança**:
+11. **Confiança**:
+    
    - Base de relações maduras e eficazes.
    - Envolve domínio, sinceridade, responsabilidade e competência.
 
